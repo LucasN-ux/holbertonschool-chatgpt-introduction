@@ -57,14 +57,11 @@ The exercises cover:
    cd holbertonschool-chatgpt-introduction
 
 ---
-
 ## ▶️ Usage
 
 Each Python file can be run from the terminal with:
-
-```bash
 python3 <script_name>.py
- 
+
 ---
 
 ## 🎯 Outcomes
